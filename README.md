@@ -1,2 +1,2 @@
 # Django
-Bu sitede kendi projelerimin takibini yapabilmek için oluşturdum .
+Bu siteyi kendi projelerimin takibini yapabilmek için oluşturdum .
